@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Library>
+  <books>
+    <book name="The Fellowship of the Ring">
+      <author>J. R. R. Tolkien</author>
+      <place_of_publication>London</place_of_publication>
+      <publication_year>1954</publication_year>
+      <number_of_pages>500</number_of_pages>
+      <note>bygaga</note>
+      <ISBN>1</ISBN>
+    </book>
+    <book name="The Two Towers">
+      <author>J. R. R. Tolkien</author>
+      <place_of_publication>London</place_of_publication>
+      <publication_year>1955</publication_year>
+      <number_of_pages>450</number_of_pages>
+      <note>bygaga</note>
+      <ISBN>2</ISBN>
+    </book>
+    <book name="The Return of the King">
+      <author>J. R. R. Tolkien</author>
+      <place_of_publication>London</place_of_publication>
+      <publication_year>1955</publication_year>
+      <number_of_pages>505</number_of_pages>
+      <note>bygaga</note>
+      <ISBN>3</ISBN>
+    </book>
+  </books>
+  <newspapers>
+    <newspaper name="Yellowpress1">
+      <author>PFFFF</author>
+      <place_of_publication>Huhu</place_of_publication>
+      <publication_year>2017</publication_year>
+      <number_of_pages>15</number_of_pages>
+      <number>1000</number>
+      <date>01.01.2017</date>
+      <note>myhaha</note>
+      <ISSN>666</ISSN>
+    </newspaper>
+    <newspaper name="Yellowpress3">
+      <author>PFFFF</author>
+      <place_of_publication>Hihi</place_of_publication>
+      <publication_year>2019</publication_year>
+      <number_of_pages>10</number_of_pages>
+      <number>2005</number>
+      <date>01.05.2019</date>
+      <note>myhaha</note>
+      <ISSN>663</ISSN>
+    </newspaper>
+    <newspaper name="Yellowpress2">
+      <author>PFFFF</author>
+      <place_of_publication>OhOh</place_of_publication>
+      <publication_year>2018</publication_year>
+      <number_of_pages>13</number_of_pages>
+      <number>1233</number>
+      <date>10.12.2018</date>
+      <note>myhaha</note>
+      <ISSN>664</ISSN>
+    </newspaper>
+  </newspapers>
+  <patents>
+    <patent name="P1">
+      <author>Stepanoff</author>
+      <place_of_publication>USA</place_of_publication>
+      <publication_date>01.01.2019</publication_date>
+      <number_of_pages>500</number_of_pages>
+      <note>yyy</note>
+      <ISBN>151515</ISBN>
+    </patent>
+    <patent name="P15">
+      <author>Myakoff</author>
+      <place_of_publication>USA</place_of_publication>
+      <publication_date>01.01.2015</publication_date>
+      <number_of_pages>503</number_of_pages>
+      <note>yy</note>
+      <ISBN>100000</ISBN>
+    </patent>
+    <patent name="P18">
+      <author>Figacoff</author>
+      <place_of_publication>USA</place_of_publication>
+      <publication_date>01.01.2020</publication_date>
+      <number_of_pages>555</number_of_pages>
+      <note>y</note>
+      <ISBN>333555</ISBN>
+    </patent>
+  </patents>
+</Library>
